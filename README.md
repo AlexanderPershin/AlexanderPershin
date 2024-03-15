@@ -5,5 +5,5 @@
 - 🌱 I’m currently learning algorithms and databases
 - 📫 How to reach me: [Telegram](https://t.me/alexander_pershin_dev)
 
-Visitors
+Visitors \n
 ![Visitor Count](https://profile-counter.glitch.me/AlexanderPershin/count.svg)
