@@ -5,8 +5,7 @@
 
 - 🔭 I’m currently working on backend applications with microservice architecture
 - 🌱 I’m currently learning algorithms and databases
-- 📫 How to reach me: [Telegram](https://t.me/alexander_pershin_dev)
-- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alexander_pershin_dev)
+- 📫 How to reach me: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alexander_pershin_dev)
 
 ---
 
