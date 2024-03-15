@@ -10,5 +10,4 @@
 
 ---
 
-##### Visitors
 ![Visitor Count](https://profile-counter.glitch.me/AlexanderPershin/count.svg)
