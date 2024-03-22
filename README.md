@@ -7,7 +7,3 @@
 - 🌱 I’m currently learning algorithms
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alexander_pershin_dev)
-
----
-
-![Visitor Count](https://profile-counter.glitch.me/AlexanderPershin/count.svg)
