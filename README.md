@@ -2,6 +2,7 @@
 #### I am Fullstack web developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlexanderPershin&label=Profile%20views&color=0e75b6&style=flat" alt="AlexanderPershin" /> </p>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AlexanderPershin_visitor_badge_simple&left_color=royalblue&right_color=black"  />
 
 [![The Fraction of Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,py,flask,django,js,ts,react,redux,nodejs,express,electron,bash,docker,bitbucket,github,git,jquery,linux,debian,ubuntu,mongodb,rabbitmq,redis,postman,md,vim,vscode)](https://skillicons.dev)
 
